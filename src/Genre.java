@@ -1,3 +1,5 @@
+package src;
+
 public class Genre {
 	private String name;
 	// write your solution below
